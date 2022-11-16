@@ -13,7 +13,7 @@ The translation job produces a manifest, which lists all the files that are gene
 
     ![Create Translation Job JSON Payload](../images/tutorial_07_task_3_start_a_translation_job_01.png "Create Translation Job JSON Payload")
 
-    Note the use of the `generateMasterViews` attribute to instruct Forge that it must generate master views for each phase of the Revit model.
+    Note the use of the `generateMasterViews` attribute to instruct APS that it must generate master views for each phase of the Revit model.
 
 3. Click the **Headers** tab and take note of the options that are specified.
 

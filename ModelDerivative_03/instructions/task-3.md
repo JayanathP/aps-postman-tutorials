@@ -30,7 +30,7 @@ The assembly file *scissors.iam* expects its part files to be placed in a sub-fo
 
     ![Create Translation Job JSON Payload](../images/tutorial_03_task_03_start_translation_01.png "Create Translation Job JSON Payload")
 
-    Note the use of the `checkReferences` attribute to instruct Forge that the source file contains references that must be downloaded at translation time.
+    Note the use of the `checkReferences` attribute to instruct APS that the source file contains references that must be downloaded at translation time.
 
 3. Click **Send**. If the request is successful you should see a screen similar to the following image.
 
