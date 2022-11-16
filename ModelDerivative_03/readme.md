@@ -11,7 +11,7 @@
 ![Beginner](https://img.shields.io/badge/Level-Beginner-green.svg)
 [![License](https://img.shields.io/:license-MIT-blue.svg)](http://opensource.org/licenses/MIT)
 
-This folder contains a Postman Collection that contains the requests used in the Model Derivative Step-by-Step Tutorial [Translate a Source File that Contains References](https://forge.autodesk.com/en/docs/model-derivative/v2/tutorials/translate-source-file-containing-xref/), which is published on the APS developer portal.
+This folder contains a Postman Collection that contains the requests used in the Model Derivative Step-by-Step Tutorial [Translate a Source File that Contains References](https://aps.autodesk.com/en/docs/model-derivative/v2/tutorials/translate-source-file-containing-xref/), which is published on the APS developer portal.
 
 In the Postman sidebar, requests are stored in folders that have the same name as the corresponding task in the tutorial on the APS developer portal.
 

@@ -11,7 +11,7 @@
 ![Beginner](https://img.shields.io/badge/Level-Beginner-green.svg)
 [![License](https://img.shields.io/:license-MIT-blue.svg)](http://opensource.org/licenses/MIT)
 
-This folder contains a Postman Collection corresponding to the [Model Derivative Step-by-Step Tutorial Extract Geometry from a Source File](https://forge.autodesk.com/en/docs/model-derivative/v2/tutorials/xtract-geometry-from-source-file/).
+This folder contains a Postman Collection corresponding to the [Model Derivative Step-by-Step Tutorial Extract Geometry from a Source File](https://aps.autodesk.com/en/docs/model-derivative/v2/tutorials/xtract-geometry-from-source-file/).
 
 In the Postman sidebar, requests are stored in folders that have the same name as the corresponding task in the tutorial on the APS developer portal.
 

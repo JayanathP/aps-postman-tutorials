@@ -13,7 +13,7 @@
 ![Beginner](https://img.shields.io/badge/Level-Beginner-green.svg)
 [![License](https://img.shields.io/:license-MIT-blue.svg)](http://opensource.org/licenses/MIT)
 
-This folder contains a Postman Collection that contains the requests used in the [Design Automation for 3ds Max Step-by-Step tutorial](https://forge.autodesk.com/en/docs/design-automation/v3/tutorials/3dsmax/) on the APS developer portal. 
+This folder contains a Postman Collection that contains the requests used in the [Design Automation for 3ds Max Step-by-Step tutorial](https://aps.autodesk.com/en/docs/design-automation/v3/tutorials/3dsmax/) on the APS developer portal. 
 
 In the Postman sidebar, requests are stored in folders that have the same name as the corresponding task in the tutorial.
 
