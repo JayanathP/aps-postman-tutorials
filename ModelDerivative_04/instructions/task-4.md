@@ -39,7 +39,7 @@ We have created two web pages based on the instructions provided in Option 1. On
 
 | SVF                                                                                      | SVF2                                                                                      |
 |:----------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|
-| [Show Web page](https://Autodesk-Platform-Services.github.io/forge-tutorial-postman/display_svf.html)|[Show Web page](https://Autodesk-Platform-Services.github.io/forge-tutorial-postman/display_svf2.html) |
+| [Show Web page](https://Autodesk-Platform-Services.github.io/aps-postman-tutorials/display_svf.html)|[Show Web page](https://Autodesk-Platform-Services.github.io/aps-postman-tutorials/display_svf2.html) |
 | ![SVF Web Page](../images//tutorial_4_urn_in_html_page.png)                              | ![SVF2 Web Page](../images//tutorial_4_urn_in_html_page_svf2.png)                         |
 | [Show Source](../../docs/display_svf.html)                                               |[Show Source](../../docs/display_svf2.html)                                                |
 
