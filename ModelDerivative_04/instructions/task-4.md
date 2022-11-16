@@ -4,7 +4,7 @@ There are two ways by which you can display the model in the Viewer.
 
 ## Option 1: Embed the source file URN in an HTML page you create
 
-1. Insert an instance of the Viewer in an HTML page, and initialize it as per the instructions provided in the following Viewer documentation topics on the Forge portal:
+1. Insert an instance of the Viewer in an HTML page, and initialize it as per the instructions provided in the following Viewer documentation topics on the APS developer portal:
 
     a. [Add Viewer to an HTML Page](https://forge.autodesk.com/en/docs/viewer/v7/developers_guide/viewer_basics/starting-html/)
 
