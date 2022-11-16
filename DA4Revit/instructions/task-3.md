@@ -6,11 +6,11 @@ A Nickname lets you map a Client ID to an easy-to-use name that you can use in p
 
 **Notes:**
 
-- If your Forge App doesn't have any data, you can map the Forge App to another nickname, and the new nickname will overwrite the old one. Once you add data to a Forge App, you are not allowed to set a nickname for it. This is true even if you have not yet assigned a nickname for the app. The only way you can assign a nickname to an app with data is by first calling the `[DELETE] /forgeapps/me` endpoint. This deletes all data associated with that app, including the nickname. The last request in this Postman Collection (**DEL Delete Forge App**) calls this endpoint and clears the app of all data.
+- If your app doesn't have any data, you can map the app to another nickname, and the new nickname will overwrite the old one. Once you add data to an App, you are not allowed to set a nickname for it. This is true even if you have not yet assigned a nickname for the app. The only way you can assign a nickname to an app with data is by first calling the `[DELETE] /forgeapps/me` endpoint. This deletes all data associated with that app, including the nickname. The last request in this Postman Collection (**DEL Delete app**) calls this endpoint and clears the app of all data.
 
-    ![Delete Forge App Data](../images/task3-delete_forge_app.png "Delete Forge App")
+    ![Delete App Data](../images/task3-delete_forge_app.png "Delete app")
 
-- If you get stuck while working on this tutorial, and are unable to proceed because your app has data, you can use **DEL Delete Forge App** to clear all data from the app, and restart from Task 2.
+- If you get stuck while working on this tutorial, and are unable to proceed because your app has data, you can use **DEL Delete app** to clear all data from the app, and restart from Task 2.
 
 
 - Nicknames must be globally unique.  If the nickname is already in use, even by someone else, Forge returns a `409 Conflict` error when you try to set the Nickname. 

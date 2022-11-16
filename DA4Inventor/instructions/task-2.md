@@ -6,9 +6,9 @@ A Nickname lets you map a Client ID to an easy-to-use name that you can use in p
 
 **Notes:**
 
-- Once your add data to a Forge App, you are not allowed to set a nickname for the app. The only way you can assign a nickname to an app with data is by first calling the `[DELETE] /forgeapps/me` endpoint. This endpoint deletes all data associated with that app, including any existing nickname. The request **Extras > Delete Forge App Data in Design Automation** in this Postman Collection calls this endpoint (`[DELETE] /forgeapps/me`) and clears the app of all data.
+- Once your add data to an App, you are not allowed to set a nickname for the app. The only way you can assign a nickname to an app with data is by first calling the `[DELETE] /forgeapps/me` endpoint. This endpoint deletes all data associated with that app, including any existing nickname. The request **Extras > Delete App Data in Design Automation** in this Postman Collection calls this endpoint (`[DELETE] /forgeapps/me`) and clears the app of all data.
 
-    ![Delete Forge App Data](../images/task2-delete_forge_app.png "Delete Forge App")
+    ![Delete App Data](../images/task2-delete_forge_app.png "Delete app")
 
 - If you get stuck while working on this tutorial, and are unable to proceed, use this request to clear all data from the app, and restart from Task 1.
 
